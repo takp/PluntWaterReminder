@@ -2,6 +2,8 @@
 
 This is the app to check the soil moisture and show the moisture level by the light color. 
 
+![wiring](https://github.com/takp/PluntWaterReminder/image/final.JPG)
+
 ### Devices
 
 - Arduino Nano
@@ -23,8 +25,11 @@ This is the app to check the soil moisture and show the moisture level by the li
 - VIN : Red Battery cable
 - GND : Black Battery cable
 
+![wiring](https://github.com/takp/PluntWaterReminder/image/wiring.JPG)
+
 ### Overview
 
 - RED light : low moisture ( less than 300 )
 - GREEN light : Medium moisture ( between 300 and 500 )
 - BLUE light : High moisture ( over 500 )
+
