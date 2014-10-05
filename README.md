@@ -2,7 +2,7 @@
 
 This is the app to check the soil moisture and show the moisture level by the light color. 
 
-![wiring](https://github.com/takp/PluntWaterReminder/tree/master/image/final.JPG)
+![wiring](image/final.JPG)
 
 ### Devices
 
@@ -25,7 +25,7 @@ This is the app to check the soil moisture and show the moisture level by the li
 - VIN : Red Battery cable
 - GND : Black Battery cable
 
-![wiring](https://github.com/takp/PluntWaterReminder/tree/master/image/wiring.JPG)
+![wiring](image/wiring.JPG)
 
 ### Overview
 
